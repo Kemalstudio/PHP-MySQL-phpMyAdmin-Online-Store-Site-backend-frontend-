@@ -102,4 +102,8 @@ What is missing in this code (but implied for full functionality):
 
     The shop_db database itself with a products table (with at least id, name, price, image_url fields).
 
-    A more robust user authentication system (instead of $user_id = 1;).
+    A more robust user authentication system (instead of $user_id = 1;). 
+
+
+```If you encounter any problems, contact me on Telegram, and I will answer you.```
+    
